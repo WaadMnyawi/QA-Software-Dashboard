@@ -1,4 +1,3 @@
-# QA-Software-Dashboard
 🐞 QA Bug Tracking Dashboard – Power BI
 This Power BI dashboard visualizes and analyzes bug tracking data to help QA teams monitor software quality, identify patterns, and make informed testing decisions.
 
